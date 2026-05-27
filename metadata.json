@@ -1,0 +1,6 @@
+{
+  "name": "Quero uma Internet",
+  "description": "Plataforma premium de comparação de planos de internet banda larga e busca inteligente de cobertura por CEP na sua região.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
